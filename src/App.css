@@ -29,7 +29,7 @@ body{
 .image__container{
   z-index: 0;
   width: 500px;
-  height: 320px;
+  height: 330px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
